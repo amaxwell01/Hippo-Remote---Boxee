@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>Fullscreen</string>
+		<key>action</key>
+		<string>[/]</string>
+		<key>action_mac</key>
+		<string>[CMD+f]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Volume Up</string>
+		<key>action</key>
+		<string>[PLUS]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Volume Down</string>
+		<key>action</key>
+		<string>[-]</string>
+	</dict>
+</array>
+</plist>
